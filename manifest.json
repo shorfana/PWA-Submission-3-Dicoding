@@ -1,0 +1,18 @@
+{
+    "name": "Germany Football",
+    "gcm_sender_id": "1048141646554",
+    "short_name": "G FootBall",
+    "description": "Aplikasi Informasi Sepakbola Pada Liga Jerman",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#00897B",
+    "theme_color": "#00897B",
+    "icons": [
+        {
+            "src": "img/512ball.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
+
