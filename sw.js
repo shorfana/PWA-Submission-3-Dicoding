@@ -75,6 +75,7 @@ self.addEventListener('push', function(event) {
   );
 });
 
+// format ini digunakan jika tidak menggunakan workbox
 // const CACHE_NAME = "JermanFootball";
 // var urlsToCache = [
 //   "/",
